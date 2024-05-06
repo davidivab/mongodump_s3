@@ -7,7 +7,7 @@ HOST="localhost"
 # Nombre de la base de datos
 NOMBRE_BASE_DATOS="mongo_base_datos"
 # Contenedor S3
-CONTENEDOR="s3://ivo-genericos/backups"
+CONTENEDOR="s3://nombre_contenedor/carpeta"
 # Usuario
 USUARIO="ubuntu"
 # Hora actual
